@@ -1,1 +1,0 @@
-# TadeasBezruc.github.io
