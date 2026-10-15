@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="190" height="55" viewBox="0 0 190 55" role="img" aria-labelledby="title">
+  <title id="title">CSS validace</title>
+  <rect width="190" height="55" rx="6" fill="#17212b"/>
+  <circle cx="27" cy="27" r="17" fill="#ffffff"/>
+  <path d="M18 27l6 6 12-14" fill="none" stroke="#17212b" stroke-width="4"/>
+  <text x="53" y="34" fill="#ffffff" font-family="Verdana, sans-serif" font-size="18" font-weight="bold">CSS validace</text>
+</svg>
