@@ -1,11 +1,11 @@
 :root {
-  --ink: #111820;
-  --ink-soft: #647078;
-  --lime: #c6f135;
-  --coral: #ff765e;
-  --paper: #f4f3ee;
-  --white: #fffef9;
-  --line: rgba(17, 24, 32, 0.14);
+  --ink: #102a43;
+  --ink-soft: #526b7a;
+  --lime: #ffd166;
+  --coral: #06a6a6;
+  --paper: #eef7f7;
+  --white: #ffffff;
+  --line: rgba(16, 42, 67, 0.15);
 }
 
 html {
@@ -25,7 +25,7 @@ body::before {
   position: fixed;
   inset: 0;
   z-index: -1;
-  background-image: linear-gradient(rgba(17, 24, 32, 0.035) 1px, transparent 1px), linear-gradient(90deg, rgba(17, 24, 32, 0.035) 1px, transparent 1px);
+  background-image: linear-gradient(rgba(16, 42, 67, 0.04) 1px, transparent 1px), linear-gradient(90deg, rgba(16, 42, 67, 0.04) 1px, transparent 1px);
   background-size: 32px 32px;
   content: "";
   pointer-events: none;
@@ -62,7 +62,7 @@ body::before {
   max-width: 1110px;
   margin: 0 auto;
   padding: 20px 24px;
-  background: rgba(244, 243, 238, .9);
+  background: rgba(238, 247, 247, .9);
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -151,7 +151,7 @@ h3 { margin-top: 0; font-size: 21px; }
 .polozka {
   min-height: 150px;
   padding: 25px;
-  background: rgba(255, 254, 249, .72);
+  background: rgba(255, 255, 255, .78);
   border: 1px solid var(--line);
   border-top: 5px solid var(--coral);
   transition: transform .2s ease, background .2s ease;
